@@ -1,5 +1,4 @@
 # HW2: Building Unity Game in Simulated AR
-
 In this homework you will be building a simple AR Game. The exact game you make is up to you and can be very simple (think Board games such as Tic-Tac-Toe). This document will help you set up an unity game in a simulate environment. It will guide you through the steps of: finding planes in a scene, selecting your game board location, and creating basic interaction elements. 
 
 It will be up to you to use what you have learned to make a game. Your game must have an end condition and indicate to the user the result of the game (ie. whether they have won or lost, or what their final score is). 
@@ -12,7 +11,7 @@ Note, this stack overflow post covers on how to fork into a private repo: https:
 
 ### Deadline
 
-HW2 is due Sunday 09/19/2021, 11:59PM Pacific. Both your code and video need to be turned in for your submission to be complete; HWs which are turned in after 11:59pm will use one of your slip days -- there are no slip minutes or slip hours. The root folder of the repositoy should contain a text file with the link to the Video (can be hosted on Youtube or other video sharing sites). 
+HW2 is due Sunday, 09/19/2021, 11:59PM Pacific. Both your code and video need to be turned in for your submission to be complete; HWs which are turned in after 11:59pm will use one of your slip days -- there are no slip minutes or slip hours. The root folder of the repositoy should contain a text file with the link to the Video (can be hosted on Youtube or other video sharing sites). 
 
 ### Academic honesty
 Please do not post code to a public GitHub repository, even after the class is finished, since these HWs will be reused both  in the future.
